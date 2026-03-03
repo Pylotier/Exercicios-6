@@ -10,7 +10,6 @@ print("Antes o 1° número era: ", x, "e 2° número era:", y)
 x = Q
 y = x
 x = y
-print("Ag
 print("Agora o 1° número é:", x, "e 2° número é:", y)
 
 #Fim
